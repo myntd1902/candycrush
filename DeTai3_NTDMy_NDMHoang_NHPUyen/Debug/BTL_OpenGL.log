@@ -1,0 +1,15 @@
+﻿  BTL.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include\sal_supp.h(57,1): warning C4005: '__useHeader': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2866): message : see previous definition of '__useHeader'
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include\specstrings_supp.h(77,1): warning C4005: '__on_failure': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2876): message : see previous definition of '__on_failure'
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(155,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(337,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(338,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(341,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(341,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(310,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(311,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(319,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game Candy Crush\BTL_OpenGL\BTL.cpp(320,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BTL_OpenGL.vcxproj -> D:\Game Candy Crush\BTL_OpenGL\Debug\BTL_OpenGL.exe
